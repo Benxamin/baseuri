@@ -2,7 +2,7 @@
   "name": "baseuri",
   "repo": "benxamin/baseuri",
   "description": "BaseURI getter polyfill",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "keywords": ["baseuri, baseurl, base, uri"],
   "dependencies": {},
   "scripts": ["index.js"],
